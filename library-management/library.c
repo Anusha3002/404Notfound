@@ -1,4 +1,4 @@
-/*Library Management*/
+/*Library Management System*/
 
 #include<stdio.h>
 #include<stdlib.h>
