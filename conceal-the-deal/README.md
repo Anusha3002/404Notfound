@@ -9,3 +9,5 @@ http://<server>:<port>/api/v1/shift
 To run the program
 
 mvn spring-boot:run
+
+By default this will run on 7001
