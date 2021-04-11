@@ -1,4 +1,4 @@
-Canceal the deal
+CONCEAL THE DEAL
 
 This is a maven based spring boot application which expose the end point
 
