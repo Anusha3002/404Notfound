@@ -23,14 +23,6 @@ The User can decide himself how much he wants to shift the symbols and elements.
 In Conceal the deal’s cipher, each alphabet in the message is replaced (by the number of shifts you tell it to) places down. 
 
 
-Challenges we ran into
-1) We faced an issue while building our project in the spring-boot framework while integrating the project.
-
-2) After analyzing all the themes, we were searching for a different topic. Cybersecurity was our choice.
-We did't have any idea about cryptography and Ciphering before. So, We studied all these things in 2-3 days and thus we spent our starting 10-12 hrs on studing, and then started building the project.
-
-So, the major issue we face was TIME.
-
 
 Technologies we used
 
@@ -55,12 +47,5 @@ mvn spring-boot:run
 
 By default this will run on 7001
 
-Presentation Link:
-The presentation ppt is avaliable HERE: [404NF.pdf](https://github.com/Anusha3002/404Notfound/files/6291184/404NF.pdf)
 
 
-The Contributors: 
-1) Anusha Choudhary : https://github.com/Anusha3002/404Notfound
-2) Varnika Hotwani :  https://github.com/Varnika-Hotwani
-3) Himanshi  : https://github.com/Himanshi2511 
-4) Shruti :  https://github.com/sheshruti
